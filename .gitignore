@@ -1,0 +1,6 @@
+﻿*.docx
+*.pdf
+*.zip
+_salida/
+.DS_Store
+Thumbs.db
