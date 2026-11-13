@@ -49,7 +49,7 @@ Mapa del flujo: `references/flujo-editorial-integrado.md`
 
 ## Cómo operar
 
-1. **Identificar la fase** que pide Martín (o proponerla si no la dice).
+1. **Identificar la fase** que pide el usuario (o proponerla si no la especifica).
 2. **Leer el workflow** de esa fase y aplicar su protocolo completo.
 3. **Respetar el formato de entrega** definido en ese workflow — no inventar otro.
 4. **Registrar hallazgos** con los campos obligatorios: tipo, subtipo, severidad, ubicación, acción, fuente normativa, validación.
