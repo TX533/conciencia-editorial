@@ -1,6 +1,6 @@
 ---
 name: conciencia-editorial
-description: Sistema editorial completo para auditar y producir libros, manuales, tesis, revistas y documentos largos en español de México. Cubre el flujo de 14 fases: pasaporte editorial, ortotipografía y muletillas, hoja de estilo, consistencia terminológica, claridad y densidad, diagnóstico estructural, paratextos e índice, consolidación de hallazgos, corrección, re-pasada de control, maquetación digital, control post-maquetación, revisión humana y publicación. Usar cuando Martín pida auditar, revisar, corregir, maquetar o dar seguimiento editorial a un texto largo. Versión definitiva 2.1 ED.
+description: Sistema editorial completo para auditar y producir libros, manuales, tesis, revistas y documentos largos en español de México. Cubre el flujo de 14 fases: pasaporte editorial, ortotipografía y muletillas, hoja de estilo, consistencia terminológica, claridad y densidad, diagnóstico estructural, paratextos e índice, consolidación de hallazgos, corrección, re-pasada de control, maquetación digital, control post-maquetación, revisión humana y publicación. Usar cuando se pida auditar, revisar, corregir, maquetar o dar seguimiento editorial a un texto largo. Versión definitiva 2.1 ED.
 ---
 
 # Editorial Digital — Sistema de Calidad Editorial (v2.1 ED)
